@@ -12,7 +12,7 @@ This repo contains template macro for Xcode during file creation.
 
 1. Open Xcode.
 2. Create new file, the shortcut is CMD + N.
-3 Scroll down to Resources files, and choose Property List.
+3. Scroll down to Resources files, and choose Property List.
 4. Click Next, and give the filename IDETemplateMacros.plist.
 5. Save it at the Desktop for now so we can easily find it.
 
