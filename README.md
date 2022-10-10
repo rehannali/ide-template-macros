@@ -43,6 +43,12 @@ This repo contains template macro for Xcode during file creation.
 > Workspace - Shared by all Users :
 `<YourWorkspaceName>.xcworkspace/xcshareddata/`
 
+> Swift Package - Single User : 
+`<YourSwiftPackage>/.swiftpm/xcode/package.xcworkspace/xcuserdata/[username].xcuserdatad`
+
+> Swift Package - Shared by all Users :
+`<YourSwiftPackage>/.swiftpm/xcode/package.xcworkspace/xcshareddata/`
+
 > Global for Xcode :
 `~/Library/Developer/Xcode/UserData/`
 
